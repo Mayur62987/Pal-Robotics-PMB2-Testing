@@ -1,7 +1,5 @@
 
 
-https://user-images.githubusercontent.com/73953831/139578503-f221826b-f605-452a-a944-d2815f84cb98.mp4
-
 # pmb2_stopping_dist_test 
 
 <u><strong>Summary</strong></u>
@@ -42,6 +40,7 @@ Analysis.py is run once a log is generated to graph results:
 <strong>Videos :</strong>
 * video_with_voice.mp4 has an explination of the testing procedure
 * compressed video.mp4 is a short run of the simulation
+https://user-images.githubusercontent.com/73953831/139578503-f221826b-f605-452a-a944-d2815f84cb98.mp4
 
 <strong>Log :</strong>
 * stop_dist_test-30_10_2021_16_43_59.csv contains a filtered run of results
