@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <node pkg="stop_dist_test" type="Logger.py" name="stopping_test_dist_tester" output="screen"></node>
+  <node pkg="stop_dist_test" type="Tester.py" name="logger" output="screen"></node>
+</launch>

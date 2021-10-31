@@ -1,0 +1,6 @@
+string surface
+float32 velocity_before_break
+float64 stop_dist_lidar
+float64 stop_dist_odom
+float64 stop_time
+float64 dist_error
