@@ -2,9 +2,7 @@
 
 <u><strong>Summary</strong></u>
 
-The test script automates the stopping distance test on the pmb2 platform![velocity_vs_stop_distance_lidar](https://user-images.githubusercontent.com/73953831/139578448-b5656577-7364-449d-93fe-63a05c3611a4.png)
-![velocity_vs_stop_distance_odom](https://user-images.githubusercontent.com/73953831/139578451-340f573b-04cf-4499-ae15-dd42d9b14709.png)
-![velocity_vs_stop_time](https://user-images.githubusercontent.com/73953831/139578453-5ebf4166-873d-450a-8b07-f781e6022690.png)
+The test script automates the stopping distance test on the pmb2 platform
 
 Linear x velocity is tested in a range from 0.1 - 1 m/s
 stopping distance is measured using the onboard SICK TiM571 lidar 
@@ -32,6 +30,10 @@ Analysis.py is run once a log is generated to graph results:
 * path to log may edited with os.chdir("path")
 * data_frame is set with the log file name self.data_frame1 = pd.read_csv("file_name")
 * figures for velocity vs stop time, velocity vs lidar stop distance and velocity vs odom stop distace are generated and saved within the log folder
+
+![velocity_vs_stop_distance_lidar](https://user-images.githubusercontent.com/73953831/139578448-b5656577-7364-449d-93fe-63a05c3611a4.png)
+![velocity_vs_stop_distance_odom](https://user-images.githubusercontent.com/73953831/139578451-340f573b-04cf-4499-ae15-dd42d9b14709.png)
+![velocity_vs_stop_time](https://user-images.githubusercontent.com/73953831/139578453-5ebf4166-873d-450a-8b07-f781e6022690.png)
 
 <strong>Videos :</strong>
 * video_with_voice.mp4 has an explination of the testing procedure
