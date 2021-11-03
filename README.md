@@ -34,6 +34,11 @@ Analysis.py is run once a log is generated to graph results:
 * figures for velocity vs stop time, velocity vs lidar stop distance and velocity vs odom stop distace are generated and saved within the log folder
 
 
+![velocity_vs_stop_distance_lidar](https://user-images.githubusercontent.com/73953831/140022203-d426aae8-7f8f-4c1d-8345-184a86ccb1fb.png)
+![velocity_vs_stop_distance_odom](https://user-images.githubusercontent.com/73953831/140022213-0cb7ef9d-7a8f-4a79-94f5-8faea9549e06.png)
+![velocity_vs_stop_time](https://user-images.githubusercontent.com/73953831/140022226-a243a566-926b-4db3-8022-3d81ecc2c4f9.png)
+
+
 
 <strong>Videos :</strong>
 * video_with_voice.mp4 has an explination of the testing procedure
@@ -42,9 +47,7 @@ Analysis.py is run once a log is generated to graph results:
 
 https://user-images.githubusercontent.com/73953831/139578548-889edcb1-43bd-48ae-ba26-1e778cc894a3.mp4
 
-![velocity_vs_stop_distance_lidar](https://user-images.githubusercontent.com/73953831/140022203-d426aae8-7f8f-4c1d-8345-184a86ccb1fb.png)
-![velocity_vs_stop_distance_odom](https://user-images.githubusercontent.com/73953831/140022213-0cb7ef9d-7a8f-4a79-94f5-8faea9549e06.png)
-![velocity_vs_stop_time](https://user-images.githubusercontent.com/73953831/140022226-a243a566-926b-4db3-8022-3d81ecc2c4f9.png)
+
 
 
 <strong>Log :</strong>
